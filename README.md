@@ -113,4 +113,4 @@ It also brings some extra functionality:
 ```
 
 
-[![Imgur](https://github.com/priyesh9875/react-native-hr/blob/master/Screenshot_1483257401.png)
+[![Imgur](https://github.com/sajadweb/hr-native/blob/master/Screenshot_1483257401.png)
