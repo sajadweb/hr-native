@@ -1,7 +1,7 @@
-# react-native-hr
+# hr-native
 
 =========
-react-native-hr brings htmls'  `<hr />`  to react-native. <br />
+hr-native brings htmls'  `<hr />`  to react-native. <br />
 It also brings some extra functionality:
   <ul>
     <li>Overayling text onto the line.</li>
